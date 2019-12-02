@@ -1,0 +1,16 @@
+.second_section {
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    width: 750px;
+    background-color: #fff;
+    box-shadow: -8px 0px 5px -4px rgb(190, 190, 190);
+
+
+    .courses_card {
+        height: 300px;
+        width: 600px;
+        border: 2px solid #BEBEBE;
+        margin-top: 40px;
+    }
+}
